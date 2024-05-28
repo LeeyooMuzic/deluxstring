@@ -38,9 +38,6 @@
         {
             "url": "heroku/python"
         },
-        {
-            "url": "heroku/nodejs"
-        },
     ],
     "formation": {
         "worker": {
